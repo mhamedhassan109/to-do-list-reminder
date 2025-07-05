@@ -1,6 +1,6 @@
 # 📝 To-Do List Reminder App
 
-![App Screenshot](./preview.png)
+![App Screenshot](./profile.png)
 
 A small React project that allows users to:
 
