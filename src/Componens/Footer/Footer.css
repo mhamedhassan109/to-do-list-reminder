@@ -1,0 +1,17 @@
+.Footer {
+    margin-bottom: 20px;
+    padding: 25px;
+    text-align: center;
+    background-color: var( --main-color);
+    color: white;
+}
+.Footer p {
+    font-size: 14px;
+    line-height: 2;
+}
+
+@media (max-width:992px) {
+    .Footer {
+        margin-bottom: 0;
+    }
+}

@@ -1,0 +1,19 @@
+.HomeDetales {
+    text-align: center;
+    padding: 30px;
+    min-height: 200px;
+}
+.HomeDetales .imgHome {
+    width: 350px;
+    margin: auto;
+}
+.HomeDetales h2 {
+    margin: 15px 0;
+    font-size: 40px;
+}
+
+.HomeDetales p {
+    font-size: 15px;
+    line-height: 1.6;
+    color: #333
+}

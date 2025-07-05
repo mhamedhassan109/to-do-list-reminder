@@ -1,0 +1,25 @@
+.Header {
+    padding: 30px;
+    text-align: center;
+    margin-top: 20px;
+    background-color: var( --main-color);
+}
+
+.Header .icons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+}
+
+.Header .icons i {
+    color: white;
+    font-size: 20px;
+
+}
+
+@media (max-width:992px) {
+    .Header {
+        margin-top: 0;
+    }
+}
